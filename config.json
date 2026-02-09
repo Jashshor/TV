@@ -157,10 +157,107 @@
 
       "name": "百度资源"
 
+    },
+
+    "saohuo": {
+      "api": "https://saohuody.com/api.php/provide/vod",
+      "name": "🔥骚火影视",
+      "detail": "https://saohuody.com"
+    },
+    "meijumi": {
+      "api": "https://www.meijumi.net/api.php/provide/vod",
+      "name": "🧲美剧迷",
+      "detail": "https://www.meijumi.net"
+    },
+    "laikan": {
+      "api": "https://lkvod.com/api.php/provide/vod",
+      "name": "🏔️来看影视",
+      "detail": "https://lkvod.com"
+    },
+    "dm84": {
+      "api": "https://dm84.net/api.php/provide/vod",
+      "name": "🚌动漫巴士",
+      "detail": "https://dm84.net"
+    },
+    "4kvm": {
+      "api": "https://www.4kvm.me/api.php/provide/vod",
+      "name": "🌋绝对4K",
+      "detail": "https://www.4kvm.me"
+    },
+    "xiuluo": {
+      "api": "https://xl01.com.de/api.php/provide/vod",
+      "name": "🧲修罗影视",
+      "detail": "https://xl01.com.de"
+    },
+    "mianbao": {
+      "api": "https://v.aiwule.com/api.php/provide/vod",
+      "name": "🎁面包影视",
+      "detail": "https://v.aiwule.com"
+    },
+    "guanying": {
+      "api": "https://www.gyg.la/api.php/provide/vod",
+      "name": "🎥观影",
+      "detail": "https://www.gyg.la"
+    },
+    "pianku": {
+      "api": "https://www.qwnull.com/api.php/provide/vod",
+      "name": "🅿片库",
+      "detail": "https://www.qwnull.com"
+    },
+    "erxiao": {
+      "api": "https://erxiaofn.click/api.php/provide/vod",
+      "name": "😈二小",
+      "detail": "https://erxiaofn.click"
+    },
+    "zhizhen": {
+      "api": "https://www.mihdr.top/api.php/provide/vod",
+      "name": "💯至臻",
+      "detail": "https://www.mihdr.top"
+    },
+    "labi": {
+      "api": "https://feimao666.fun/api.php/provide/vod",
+      "name": "🖍︎蜡笔",
+      "detail": "https://feimao666.fun"
+    },
+    "muou": {
+      "api": "http://123.666291.xyz/api.php/provide/vod",
+      "name": "🧸木偶",
+      "detail": "http://123.666291.xyz"
+    },
+    "ouge": {
+      "api": "https://woog.nxog.eu.org/api.php/provide/vod",
+      "name": "🅾讴歌",
+      "detail": "https://woog.nxog.eu.org"
+    },
+    "duoduo": {
+      "api": "https://tv.yydsys.top/api.php/provide/vod",
+      "name": "🌟多多",
+      "detail": "https://tv.yydsys.top"
+    },
+    "shandian": {
+      "api": "https://sduc.cloud/api.php/provide/vod",
+      "name": "⚡闪电",
+      "detail": "https://sduc.cloud"
+    },
+    "star2": {
+      "api": "https://1.star2.cn/api.php/provide/vod",
+      "name": "⭐️星剧社",
+      "detail": "https://1.star2.cn"
+    },
+    "wogg": {
+      "api": "https://wogg.xxooo.cf/api.php/provide/vod",
+      "name": "👽玩偶gg",
+      "detail": "https://wogg.xxooo.cf"
+    },
+    "panta": {
+      "api": "https://www.91panta.cn/api.php/provide/vod",
+      "name": "🍥盘Ta",
+      "detail": "https://www.91panta.cn"
     }
 
   }
 
 }
+
 
 
